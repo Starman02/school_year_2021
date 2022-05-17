@@ -1,0 +1,2 @@
+001 - Character Dunsparce ('Dunsparce', 'dunsparce.back', 50, 5)
+002 - Enemy (wild) Dunsparce ('Dunsparce', 'dunsparce', 50, 5)

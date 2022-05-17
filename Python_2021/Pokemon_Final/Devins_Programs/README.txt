@@ -1,0 +1,1 @@
+in order for the programms to properly work, they must be taken out of this folder and put into a file, only thing allowed within a folder are the images inside img. Failing to do this could cause the program to break. Also the starting file to start the game is main_game_file, no other file can start the game.
